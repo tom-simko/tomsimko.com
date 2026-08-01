@@ -66,17 +66,6 @@ export type SiteContent = {
     body: string;
     button: string;
     secondary: string;
-    nameLabel: string;
-    emailLabel: string;
-    messageLabel: string;
-    namePlaceholder: string;
-    emailPlaceholder: string;
-    messagePlaceholder: string;
-    required: string;
-    security: string;
-    sending: string;
-    success: string;
-    error: string;
   };
   footer: {
     built: string;
@@ -196,17 +185,6 @@ export const siteContent = {
       body: "I’m always interested in useful products, ambitious operations and people who enjoy building things properly.",
       button: "Send message",
       secondary: "Based in Bratislava. Working across Europe.",
-      nameLabel: "Name",
-      emailLabel: "Your email",
-      messageLabel: "Message",
-      namePlaceholder: "Your name",
-      emailPlaceholder: "you@example.com",
-      messagePlaceholder: "What are you working on?",
-      required: "Required",
-      security: "Protected by a private server-side anti-spam check.",
-      sending: "Sending…",
-      success: "Thanks — your message was sent.",
-      error: "The message could not be sent. Please try again in a moment.",
     },
     footer: {
       built: "Built with curiosity in Bratislava.",
@@ -324,17 +302,6 @@ export const siteContent = {
       body: "Zaujímajú ma užitočné produkty, ambiciózne prevádzky a ľudia, ktorí radi tvoria veci poriadne.",
       button: "Odoslať správu",
       secondary: "Bratislava. Projekty v rámci celej Európy.",
-      nameLabel: "Meno",
-      emailLabel: "Váš e-mail",
-      messageLabel: "Správa",
-      namePlaceholder: "Vaše meno",
-      emailPlaceholder: "vy@priklad.sk",
-      messagePlaceholder: "Na čom pracujete?",
-      required: "Povinné",
-      security: "Chránené súkromnou serverovou ochranou proti spamu.",
-      sending: "Odosielam…",
-      success: "Ďakujem — správa bola odoslaná.",
-      error: "Správu sa nepodarilo odoslať. Skúste to o chvíľu znova.",
     },
     footer: {
       built: "Vytvorené so zvedavosťou v Bratislave.",
