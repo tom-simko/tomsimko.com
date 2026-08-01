@@ -213,7 +213,7 @@ export const siteContent = {
     hero: {
       eyebrow: "Tomáš Šimko · zakladateľ a praktik · Bratislava",
       title: "Budujem produkty, systémy a firmy okolo nich.",
-      body: "Pracujem na pomedzí e-commerce, softvéru, výroby a logistiky. Najčastejšie som medzi produktom a prevádzkou, ktorá ho vyrobí, predá a doručí.",
+      body: "Prepájam e-commerce, softvér, výrobu a logistiku. Najčastejšie som medzi produktom a prevádzkou, ktorá ho vyrobí, predá a doručí.",
       primaryCta: "Na čom pracujem",
       secondaryCta: "Ozvať sa",
       descriptor: "Zakladateľ · Tvorca · Praktik",
